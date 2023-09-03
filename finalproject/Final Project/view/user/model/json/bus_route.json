@@ -1,0 +1,15 @@
+[
+    { "id": "1",  "name":"DHAKA-COX'S BAZAR"},
+    { "id": "2",  "name":"DHAKA-KHAGRACHARI" },
+    { "id": "3",  "name":"DHAKA-BANDARBAN" },
+    { "id": "4",  "name":"DHAKA-TEKNAF" },
+    { "id": "5",  "name":"DHAKA-RANGAMATI" },
+    { "id": "6",  "name":"DHAKA-CHAPAINAWABGANJ" },
+    { "id": "7",  "name":"DHAKA-RAJSHAHI" },
+    { "id": "8",  "name":"DHAKA-RANGPUR" },
+    { "id": "9",  "name":"DHAKA-BARISAL" },
+    { "id": "10", "name":"DHAKA-BARGUNA" },
+    { "id": "11", "name":"DHAKA-KUAKATA" },
+    { "id": "12", "name":"DHAKA-SATKHIRA" },
+    { "id": "13", "name":"DHAKA-KHULNA" }
+]
